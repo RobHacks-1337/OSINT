@@ -1,12 +1,15 @@
 # Some useful Websites:
 
-- whatsmyname.me :
+- whatsmyname.me : Username lookup Tool
+	> Used to search for social media sites matching with a username
 
-- Shodan.io :
+- Shodan.io : Search Engine for Hackers
+	> Used to check countries with most servers
 
-- Yandex.com :
+- Yandex.com : Reverse image searching
+	> Used to find geolocation from images
 
-- Wigle.net :
+- Wigle.net : Wireless networking map
+	> Used to check ssid using bssid and vice versa
 
 - Mapdevelopers.com :
-
