@@ -23,3 +23,12 @@
 - Sourcing Games : Learn OSINT in fun way
 	> Gamified way of learning and training OSINT skills
 	+ https://sourcing.games/
+
+- Rapid Tables : Converts Binary to Dec,Oct,hex and Text(ascii)
+	> Used to convert binary to Text
+	+ https://www.rapidtables.com/convert/number/
+
+- EtherScan : Block Explorer and Analytics platform for Ethereum
+	> Explore Ethereum blockchain for transactions and other activities 
+	> Used to look at the transactions of etherim crypto using wallet address
+	+ https://etherscan.io/
